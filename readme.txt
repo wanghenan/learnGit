@@ -1,3 +1,3 @@
 testgit
-Change Git is a distributed version control system.
-Change Git is free software.
+Lisence Change Git is a distributed version control system.
+Lisence Change Git is free software.
